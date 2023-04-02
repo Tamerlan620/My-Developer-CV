@@ -16,8 +16,8 @@ const Home = ({selectedLanguage}) => {
                 <h1 className="Slogan">
                 {
                     selectedLanguage==="AZ" ?
-                    "Kodlaşdırarkən mükəmməl hiss edirəm" :
-                    "Feel amazing while coding"
+                    "Xəyallarını kodlaşdır" :
+                    "Code yor dream"
                     }
                 
                 </h1>

@@ -4,7 +4,6 @@ import MYCV from "../Components/MYCV/MYCV-Dev.pdf"
 const Skills = ({selectedLanguage}) => {
   return (
     <div className="SkillPage">
-    <img src="../Pics/1.jpg" alt="" />
 
       <h1 className="skillHeader">
       {

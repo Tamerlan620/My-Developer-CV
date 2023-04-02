@@ -108,10 +108,6 @@ const App =()=>{
                     <input onClick={()=>setSelectedLanguage('EN')} className={selectedLanguage==="EN" ?"activelanguage" : ""} type="button" value="EN" />
                 </div>
                 <Switch>
-                    {/* <Route path="/" exact element={<App />} />   
-                    <Route path="/About" element={<About />} />
-                    <Route path="/Skills" element={<Skills />} />
-                    <Route path="/Portfolio" element={<Portfolio />} /> */}
                     <Route path="/" exact >
                         <Home selectedLanguage={selectedLanguage} />
                     </Route>
