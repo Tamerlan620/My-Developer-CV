@@ -36,6 +36,7 @@ const Skills = ({selectedLanguage}) => {
           <li>Context API</li>
           <li>REST API</li>
           <li>REDUX</li>
+          <li>Typescript</li>
           <li>PHP(beginner)</li>
           <li>MYSQL(beginner)</li>
           <li>Node.js(beginner)</li>
