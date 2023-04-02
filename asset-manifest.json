@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Developer-CV/static/css/main.0e591878.css",
-    "main.js": "/My-Developer-CV/static/js/main.65ebf627.js",
+    "main.css": "/My-Developer-CV/static/css/main.f8e7d633.css",
+    "main.js": "/My-Developer-CV/static/js/main.32adb69c.js",
     "static/media/Codding8.jpg": "/My-Developer-CV/static/media/Codding8.b084b4b4b5da55337f18.jpg",
     "static/media/Codding10.jpg": "/My-Developer-CV/static/media/Codding10.b93ff92fb6e6d55ccb7e.jpg",
     "static/media/Codding5.jpg": "/My-Developer-CV/static/media/Codding5.f18d215f767f25f15942.jpg",
@@ -37,11 +37,11 @@
     "static/media/7.jpg": "/My-Developer-CV/static/media/7.629e690a4d439b6311f2.jpg",
     "static/media/Katukupersonaluse.otf": "/My-Developer-CV/static/media/Katukupersonaluse.6f374543774a4fb8f38a.otf",
     "index.html": "/My-Developer-CV/index.html",
-    "main.0e591878.css.map": "/My-Developer-CV/static/css/main.0e591878.css.map",
-    "main.65ebf627.js.map": "/My-Developer-CV/static/js/main.65ebf627.js.map"
+    "main.f8e7d633.css.map": "/My-Developer-CV/static/css/main.f8e7d633.css.map",
+    "main.32adb69c.js.map": "/My-Developer-CV/static/js/main.32adb69c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e591878.css",
-    "static/js/main.65ebf627.js"
+    "static/css/main.f8e7d633.css",
+    "static/js/main.32adb69c.js"
   ]
 }
